@@ -45,6 +45,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Experiment :
 
+ ![image]()
 
 # Program :
 ```
