@@ -45,7 +45,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Experiment :
 
- ![image]()
+ ![image](https://user-images.githubusercontent.com/93427182/192949045-d865cdf6-88ee-4ec8-a60b-295dd233dfcc.PNG)
 
 # Program :
 ```
@@ -78,4 +78,11 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
 
-# Results and Output : 
+# Output : 
+
+ ![image](https://user-images.githubusercontent.com/93427182/192949486-823933ae-c7e1-4c3e-838c-f9a54b6d2c8d.png)
+
+
+# Results :
+
+To find mean and variance of arrival of objects from the feeder using probability distribution is successfully done and learnt
